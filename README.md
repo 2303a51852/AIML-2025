@@ -21,3 +21,5 @@
 5. [Lab 05](https://github.com/Jangala-Megha-Harsha/AIML-2025/blob/main/Lab05_AIML.ipynb)
 6. [Lab_06](https://github.com/Jangala-Megha-Harsha/AIML-2025/blob/main/Lab06_AIML.ipynb)
 7. [Lab_07](https://github.com/Jangala-Megha-Harsha/AIML-2025/blob/main/Lab07_AIML.ipynb)
+8. [Lab_08](https://github.com/Jangala-Megha-Harsha/AIML-2025/blob/main/Lab08_AIML.ipynb)
+9. [Lab_09](https://github.com/Jangala-Megha-Harsha/AIML-2025/blob/main/Lab09_AIML.ipynb)
